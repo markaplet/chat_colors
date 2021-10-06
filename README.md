@@ -3,7 +3,9 @@
 Functions installer to simplify adding team scoreboards and colors to allow players name to appear in color when viewed in the chat log. 
 
 ## Install
+See [Minecraft Wiki: Installing a data pack](https://minecraft.fandom.com/wiki/Tutorials/Installing_a_data_pack)
 
+In game type: (must be opped)
 `/function chat_colors:load`
 
 ## Remove
@@ -13,6 +15,7 @@ Functions installer to simplify adding team scoreboards and colors to allow play
 ## Join Team Color Example
 
 `/team join color PlayerName`
+Example: `/team join dark_red hogbits`
 
 ## Colors
 
