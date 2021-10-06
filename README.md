@@ -4,15 +4,15 @@ Functions installer to simplify adding team scoreboards and colors to allow play
 
 ## Install
 
-`/function chat_color:install`
+`/function chat_colors:load`
 
 ## Remove
 
-`/function chat_color:remove`
+`/function chat_colors:remove`
 
 ## Join Team Color Example
 
-`/scoreboard teams join color PlayerName`
+`/team join color PlayerName`
 
 ## Colors
 

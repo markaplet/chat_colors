@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 7,
+        "description": "Players name to appear in color when viewed in the chat log."
+    }
+}
